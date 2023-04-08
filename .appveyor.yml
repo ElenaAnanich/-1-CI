@@ -14,3 +14,6 @@ install:
 
 build_script:
   - ./chmod +x gradlew  # запускаем тест, флаг --info позволяет выводить больше информации
+
+
+
